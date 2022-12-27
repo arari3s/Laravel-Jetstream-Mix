@@ -14,6 +14,7 @@
     <!-- Scripts -->
     {{-- Coment Vite --}}
     {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
+    {{-- Tambahkan script berikut --}}
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 </head>
 
